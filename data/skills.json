@@ -1,0 +1,14 @@
+[
+  {
+      "grouping":"Industrial/Organizational Psychology",
+      "skills":[ "test development, employee selection, program/grant evaluation"]
+  },
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ " R","JavaScript","php", "VisualStudio", "GitHub", "MySQL"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Moodle","GitHub","Wordpress","Drupal"]
+  }
+]

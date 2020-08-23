@@ -1,0 +1,47 @@
+title = "Tilman's CV"
+baseURL = "https://katyem.net/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = ""
+email = "tilman@latech.com"
+favicon = "/favicon.ico"
+firstName = "Tilman"
+lastName = "Sheets"
+phone = ""
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = ""
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/tilman-sheets-1320074/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/tilmanl/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://twitter.com/tilmansheets/"
+name = "Twitter"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

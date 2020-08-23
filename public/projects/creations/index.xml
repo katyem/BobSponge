@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tilman&#39;s CV</title>
+    <link>/projects/creations/</link>
+    <description>Recent content on Tilman&#39;s CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
+    
+	<atom:link href="/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Katyem Object Tracking Assessment</title>
+      <link>/projects/creations/kota/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>/projects/creations/kota/</guid>
+      <description>The KOTA represents my second attempt at Automated Item Generation. My first experience with it was working with Scotty Hines on a very interesting number analogy test. This time around I wanted to use graphic images. I was greatly influenced by the iCar project which seemed to be mostly dormate by the time I stumbled upon it. The plan is to rewrite the code that builds the item images in r for use in our rAIG project&amp;rsquo;s open assessment system.</description>
+    </item>
+    
+    <item>
+      <title>Shepard-Metzler Automated Item Generation</title>
+      <link>/projects/creations/smaig/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>/projects/creations/smaig/</guid>
+      <description>R code using the rgl package (among others) that allows the creation of SM cubes either on-the-fly (completely random at this point) or using matrix coordinates from a spreadsheet. The plan is to use the SMAIG in our rAIG project&amp;rsquo;s assessment system.
+Learn more at the Katyem Online Lab</description>
+    </item>
+    
+    <item>
+      <title>R Automated Item Generation</title>
+      <link>/projects/creations/raig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/creations/raig/</guid>
+      <description>rAIG The plan is to build a version of the KOTA that will build stimulus images using R. It will have some degree of flexibility regarding the number of stimuli presented. This will allow for configuration of KOTA, Shepard-Metzler, Matrices, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
