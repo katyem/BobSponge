@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AROS on Tilman&#39;s CV</title>
+    <link>/tags/aros/</link>
+    <description>Recent content in AROS on Tilman&#39;s CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/aros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Adaptive Angoff Method for Computer Adaptive Tests</title>
+      <link>/publications/ipac2018/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/ipac2018/</guid>
+      <description>Sheets, T., Allen, D., Doumit, D. and Girardot (2018) An Adaptive Angoff Method for Computer Adaptive Tests. Presentation at the annual conference of the International Personnel Assessment Council, Alexandria, VA.</description>
+    </item>
+    
+  </channel>
+</rss>
