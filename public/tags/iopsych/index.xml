@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on Tilman&#39;s CV</title>
-    <link>/publications/</link>
-    <description>Recent content in Portfolio on Tilman&#39;s CV</description>
+    <title>IOPsych on Tilman&#39;s CV</title>
+    <link>/tags/iopsych/</link>
+    <description>Recent content in IOPsych on Tilman&#39;s CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/iopsych/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
