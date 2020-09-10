@@ -1,4 +1,4 @@
-title = "Tilman's CV"
+title = "BS CV"
 baseURL = "https://katyem.net/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -9,12 +9,12 @@ enableGitInfo = false
 
 [params]
 address = ""
-email = "tilman@latech.com"
+email = "bs@morebs.io"
 favicon = "/favicon.ico"
-firstName = "Tilman"
-lastName = "Sheets"
+firstName = "Bob"
+lastName = "Sponge"
 phone = ""
-profileImage = "img/TechChat.png"
+profileImage = "img/bob.png"
 showEducation = true
 showExperience = true
 showOpenSource = true
@@ -29,15 +29,15 @@ showSkills = true
 trackerID = ""
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/tilman-sheets-1320074/"
+link = "https://www.linkedin.com/in/spongebob-squarepants-815b041a"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/tilmanl/"
+link = "https://github.com/spongebob-squarepants-815b041a/"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://twitter.com/tilmansheets/"
+link = "https://github.com/spongebob-squarepants/"
 name = "Twitter"
 
 [outputs]

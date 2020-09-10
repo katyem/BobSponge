@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMP on Bob&#39;s CV</title>
+    <link>/tags/amp/</link>
+    <description>Recent content in AMP on Bob&#39;s CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/amp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated Patty Maker (AMP)</title>
+      <link>/projects/creations/kota/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>/projects/creations/kota/</guid>
+      <description>The AMP represent a new wave of thinking about Krabby Patties. First, I took a hamburger machine and instead of putting meat into it, I put our secret Krabby Patty mixture into it and it worked!! We can now make up to 10,000 patties a day, where before we only made about 50. While we still only sell about 50 a day, we have room to grow now.</description>
+    </item>
+    
+  </channel>
+</rss>

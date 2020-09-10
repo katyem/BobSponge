@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 title: Home
 ---
-Welcome to my cyber CV. I'm a professor of psychology at Louisiana Tech University and teach in the Industrial-Organizational graduate program. My area of interest is in employee selection and assessment. 
+I'm a doctoral student in the Industrial-Organizational Psychology graduate program at Louisiana Tech. My research interests include employee selection and assessment. 

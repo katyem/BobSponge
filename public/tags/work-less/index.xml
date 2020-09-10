@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work Less on BS CV</title>
+    <link>/tags/work-less/</link>
+    <description>Recent content in Work Less on BS CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2020 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/work-less/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flood Mopping</title>
+      <link>/projects/creations/floodmop/</link>
+      <pubDate>Tue, 11 Feb 2020 12:41:05 -0500</pubDate>
+      
+      <guid>/projects/creations/floodmop/</guid>
+      <description>Open the doors and let the ocean do its thing.
+Learn more about the Power of the Ocean</description>
+    </item>
+    
+  </channel>
+</rss>

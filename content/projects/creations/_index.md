@@ -1,6 +1,6 @@
 ---
 date: "2020-01-07T15:00:28.528Z"
-description: 
+description: "A few of my favorite things"
 image: 
 link: 
 sitemap:
