@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 title: Home
 ---
-I'm a doctoral student in the Industrial-Organizational Psychology graduate program at Louisiana Tech. My research interests include employee selection and assessment. 
+I am a Krabby Patty specialist with over 3 years of experience in the development of tasty underwater cuisine. My research interests include making tastier patties that make you want to overeat to the point of exploding. 
