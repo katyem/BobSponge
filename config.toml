@@ -1,5 +1,5 @@
 title = "BS CV"
-baseURL = "https://katyem.net/"
+baseURL = "https://bobsponge.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
