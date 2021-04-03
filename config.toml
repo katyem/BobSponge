@@ -29,7 +29,7 @@ showSkills = true
 trackerID = ""
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/spongebob-squarepants-815b041a"
+link = "https://www.linkedin.com/in/sponge-b-2738611ba"
 name = "LinkedIn"
 
 [[params.handles]]
@@ -37,7 +37,7 @@ link = "https://github.com/spongebob-squarepants-815b041a/"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://github.com/spongebob-squarepants/"
+link = "https://mobile.twitter.com/SpongeBob"
 name = "Twitter"
 
 [outputs]
