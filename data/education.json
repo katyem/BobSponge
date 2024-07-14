@@ -1,16 +1,24 @@
 [
     {
-        "school":"[Lousisana Tech University](https://www.latech.edu/)",
-        "degree":"M.A.",
-        "major":"Industrial-Organizational Psychology",
-        "notes":"![](/img/latech.jpg)",
+        "school":"[University of Southern Mississippi](https://www.usm.edu/)",
+        "degree":"Ph.D.",
+        "major":"Psychology with an emphasis in I-O",
+        "notes":"![](/img/usm.jpg)",
+        "range":""
+    },
+
+    {
+        "school":"[University of Southern Mississippi](https://www.usm.edu/)",
+        "degree":"M.S.",
+        "major":"Counseling Psychology",
+        "notes":"![](/img/usm.jpg)",
         "range":""
     },
     {
-        "school":"[LSU](http://www.lsu.edu/)",
+        "school":"[LSU - Shreveport](http://www.lsus.edu/)",
         "degree":"B.A.",
         "major":"Psychology",
-        "notes":"![](/img/lsu.png)",
+        "notes":"![](/img/lsu-s.png)",
         "range":""
     }
 ]

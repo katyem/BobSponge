@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Bob&#39;s CV</title>
+    <title>R on Tilman&#39;s CV</title>
     <link>/tags/r/</link>
-    <description>Recent content in R on Bob&#39;s CV</description>
+    <description>Recent content in R on Tilman&#39;s CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,12 +11,13 @@
     
     
     <item>
-      <title>New and Improved</title>
+      <title>R Automated Item Generation</title>
       <link>/projects/creations/raig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/creations/raig/</guid>
-      <description>The New and Improved Krabby Patty Planning my next project to elevate the Krabby Patty to the next level - we&amp;rsquo;re going to make them bigger! And BIGGER is BETTER!</description>
+      <description>rAIG The plan is to build a version of the KOTA that will build stimulus images using R. It will have some degree of flexibility regarding the number of stimuli presented. This will allow for configuration of KOTA, Shepard-Metzler, Matrices, etc.
+I&amp;rsquo;ll polulate the github repository once I get coding on the project.</description>
     </item>
     
   </channel>

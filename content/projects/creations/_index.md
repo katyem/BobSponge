@@ -1,6 +1,6 @@
 ---
 date: "2020-01-07T15:00:28.528Z"
-description: "A few of my favorite things"
+description: 
 image: 
 link: 
 sitemap:
@@ -15,4 +15,4 @@ This page represents the landing page for "creations" section. It is also shown 
 
 \-->
 
-<p>A collection of my projects</p>
+## Projects

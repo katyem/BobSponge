@@ -1,5 +1,5 @@
-title = "Bob's CV"
-baseurl = "https://bobsponge.netlify.app/"
+title = "Tilman's CV"
+baseurl = "https://tlsheets.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -11,11 +11,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 address = ""
 favicon = "/favicon.ico"
-profileImage = "img/bob.png"
+profileImage = "img/TechChat.png"
   email = "tilman@latech.edu"
-  firstName = "Bob"
-  lastName = "Sponge"
-  phone = "+3182579999"
+  firstName = "Tilman"
+  lastName = "Sheets"
+  phone = "+3182573008"
   contactNote = "Contacts"
   
 showEducation = true
@@ -32,15 +32,15 @@ showSkills = true
 trackerID = ""
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/spongebob-squarepants-815b041a"
+link = "https://www.linkedin.com/in/tilman-sheets-1320074/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/spongebob-squarepants-815b041a/"
+link = "https://github.com/tilmanl/"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://github.com/spongebob-squarepants/"
+link = "https://twitter.com/tilmansheets/"
 name = "Twitter"
 
 [outputFormats]

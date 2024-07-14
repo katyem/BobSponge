@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on BS CV</title>
+    <title>Projects on Tilman&#39;s CV</title>
     <link>/projects/</link>
-    <description>Recent content in Projects on BS CV</description>
+    <description>Recent content in Projects on Tilman&#39;s CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2020 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
     
 	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
