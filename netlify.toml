@@ -30,4 +30,4 @@
   HUGO_ENABLEGITINFO = "true"
 
 [build.environment]
-  NETLIFY_BUILD_IMAGE = "ubuntu-20.04"  # Update build image to Focal (Ubuntu 20.04)
+  NETLIFY_BUILD_IMAGE = "ubuntu-20.04"  # Or "ubuntu-22.04"
