@@ -1,26 +1,29 @@
-title = "BS CV"
-baseURL = "https://bobsponge.netlify.app/"
+title = "Bob's CV"
+baseurl = "https://bobsponge.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
 address = ""
-email = "bs@morebs.io"
 favicon = "/favicon.ico"
-firstName = "Bob"
-lastName = "Sponge"
-phone = ""
 profileImage = "img/bob.png"
+  email = "tilman@latech.edu"
+  firstName = "Bob"
+  lastName = "Sponge"
+  phone = "+3182579999"
+  contactNote = "Contacts"
+  
 showEducation = true
-showExperience = true
+showExperience = false
 showOpenSource = true
 showProjects = true
 showPublications = true
-showQr = true
+showQr = false
 showSkills = true
 
 [params.google]
@@ -40,8 +43,36 @@ name = "GitHub"
 link = "https://github.com/spongebob-squarepants/"
 name = "Twitter"
 
+[outputFormats]
+  [outputFormats.WebAppManifest]
+    mediaType = "application/manifest+json"
+    baseName = "manifest"
+    isPlainText = true
+    notAlternative = true
+
 [outputs]
-home = ["HTML", "JSON"]
+  home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+  section = ["HTML", "RSS"]
 
 [taxonomies]
 tag = "tags"
+
+# Configure the Markdown renderer.
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+  [markup.highlight]
+    codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+
+  
+  
