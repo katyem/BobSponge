@@ -1,4 +1,2 @@
-# Tilman Sheets, Ph.D.
-## Coming soon... er or later.
-
-
+# BobSponge
+ This is a sample CV using the hugo-resume theme.

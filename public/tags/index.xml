@@ -1,49 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Tilman&#39;s CV</title>
+    <title>Tags on BS CV</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Tilman&#39;s CV</description>
+    <description>Recent content in Tags on BS CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>APM</title>
+      <link>/tags/apm/</link>
+      <pubDate>Sat, 11 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>/tags/apm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patties</title>
+      <link>/tags/patties/</link>
+      <pubDate>Sat, 11 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>/tags/patties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krabby Patty</title>
+      <link>/tags/krabby-patty/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/krabby-patty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krusty Krab</title>
+      <link>/tags/krusty-krab/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/krusty-krab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work Less</title>
+      <link>/tags/work-less/</link>
+      <pubDate>Tue, 11 Feb 2020 12:41:05 -0500</pubDate>
+      
+      <guid>/tags/work-less/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IOPsych</title>
       <link>/tags/iopsych/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/iopsych/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AROS</title>
-      <link>/tags/aros/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/aros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAT</title>
-      <link>/tags/cat/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AIG</title>
-      <link>/tags/aig/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>/tags/aig/</guid>
       <description></description>
     </item>
     
@@ -120,11 +138,20 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>/tags/r/</link>
+      <title>Better</title>
+      <link>/tags/better/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>/tags/better/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bigger</title>
+      <link>/tags/bigger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bigger/</guid>
       <description></description>
     </item>
     

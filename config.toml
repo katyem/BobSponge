@@ -1,30 +1,26 @@
-title = "Tilman's CV"
-baseurl = "https://tlsheets.netlify.app/"
+title = "BS CV"
+baseURL = "https://bobsponge.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
 address = ""
+email = "bs@morebs.io"
 favicon = "/favicon.ico"
-profileImage = "img/TechChat.png"
-  email = "tilman@latech.edu"
-  firstName = "Tilman"
-  lastName = "Sheets"
-  phone = "+3182573008"
-  contactNote = "Contacts"
-  
-  
+firstName = "Bob"
+lastName = "Sponge"
+phone = ""
+profileImage = "img/bob.png"
 showEducation = true
-showExperience = false
+showExperience = true
 showOpenSource = true
 showProjects = true
 showPublications = true
-showQr = false
+showQr = true
 showSkills = true
 
 [params.google]
@@ -33,47 +29,19 @@ showSkills = true
 trackerID = ""
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/tilman-sheets-1320074/"
+link = "https://www.linkedin.com/in/sponge-b-2738611ba"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/tilmanl/"
+link = "https://github.com/spongebob-squarepants-815b041a/"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://twitter.com/tilmansheets/"
+link = "https://mobile.twitter.com/SpongeBob"
 name = "Twitter"
 
-[outputFormats]
-  [outputFormats.WebAppManifest]
-    mediaType = "application/manifest+json"
-    baseName = "manifest"
-    isPlainText = true
-    notAlternative = true
-
 [outputs]
-  home = ["HTML", "RSS", "JSON", "WebAppManifest"]
-  section = ["HTML", "RSS"]
+home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
-
-# Configure the Markdown renderer.
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
-  [markup.highlight]
-    codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 3
-
-[imaging]
-  resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
-
-  
-  
