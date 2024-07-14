@@ -28,3 +28,6 @@ HUGO_VERSION = "0.127.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[build.environment]
+  NETLIFY_BUILD_IMAGE = "ubuntu-22.04"  # Update build image to Jammy (Ubuntu 22.04)
