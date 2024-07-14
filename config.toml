@@ -18,6 +18,7 @@ profileImage = "img/TechChat.png"
   phone = "+3182573008"
   contactNote = "Contacts"
   
+  
 showEducation = true
 showExperience = false
 showOpenSource = true
