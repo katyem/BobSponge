@@ -6,4 +6,4 @@ Please do not distribute any of the images associated with this project. If you 
 
 100% of my students who used this template landed a job!  She was really happy.
 
-<img id="qr-code" class="card-img-top" alt="Mr. Krabs smiling at you" src="{{ "img/Mr._Krabs.png" | absURL }}">
+![](/img/Mr._Krabs.png)
