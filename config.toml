@@ -15,13 +15,13 @@ firstName = "Bob"
 lastName = "Sponge"
 phone = ""
 profileImage = "img/bob.png"
-showEducation = false
+showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = false
-showPublications = false
-showQr = false
-showSkills = false
+showProjects =true
+showPublications = true
+showQr = true
+showSkills = true
 
 [params.google]
 
