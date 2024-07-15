@@ -14,3 +14,5 @@ title: Home
 ## About me
 
 I'm interested in all things related to Krabby Patty Making. I have over 25 years of experience as a KPM engineer. I also like snails!
+
+I also want to be your friend.
