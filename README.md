@@ -62,9 +62,9 @@ Move the "if" statements up or down. Moving Skills block of code below the Educa
 
 ```markdown
 
-      {{ if .Site.Params.showProjects }}
+      {{ if .Site.Params.showSkills }}
           <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
+            <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
           </li>
       {{ end }}
 
