@@ -31,6 +31,8 @@ Double black belt in Krabby Patty Management (KPE)
 
 I'm behind you!
 
-## Presentations
+## Experience
+
+The Krusty Krab since I was 10.
 
 
