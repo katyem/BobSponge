@@ -23,20 +23,10 @@ I also want to be your friend.
 - **B.S. in Psychology**  
   Louisiana State University
 
-## Experience
-
-### Patty University: Department of Engineering
-- **Professor** (2018 – Present)
-
-## Awards
-- **2006 – Present**: College of Education Endowed Professorship awarded by the College of Education at Louisiana Tech University
-- **2015**: Presidential Medallion for service
-
 ## Accomplishments
 
+I'm behind you!
 
 ## Presentations
 
 
-## Publications
-.
