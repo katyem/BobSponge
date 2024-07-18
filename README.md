@@ -53,11 +53,18 @@ Find and select your tilman2 repository.
 Netlify will automatically detect your build settings. You may need to specify the build command and publish directory if you're using a static site generator (e.g., for Jekyll, it might be jekyll build and _site).
 Click Deploy site.
 
+## Change the navigation menu
+
+Go to the folder on your computer from the main project directory (i.e., BobSponge): "\themes\hugo-resume\layouts\partials\nav.html"
+Move the "if" statements up or down. Moving Skills below the Education if block will change the order in the navigation menu.
+
+
+
+
+![nav.html](nav.html_image.png)
 
 ![https://bobsponge.netlify.app](https://bobsponge.netlify.app)
  
 Please do not distribute any of the images associated with this project. If you use this as your template for your CV, go to the "static/img" folder and delete all of the images and replace with your own (hint, use the same image names, like qr-code.png, and you don't have to recode).
 
 100% of my students who used this template landed a job!  She was really happy.
-
-![nav.html](nav.html_image.png)
