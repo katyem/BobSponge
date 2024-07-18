@@ -18,11 +18,12 @@
             <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
           </li>
       {{ end }}
-      {{ if .Site.Params.showProjects }}
+            {{ if .Site.Params.showEducation }}
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
+            <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
           </li>
       {{ end }}
+
 
       {{ if .Site.Params.showPublications }}
           <li class="nav-item">
@@ -34,14 +35,16 @@
             <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
           </li>
       {{ end }}
-      {{ if .Site.Params.showEducation }}
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
-          </li>
-      {{ end }}
+
       {{ if .Site.Params.showBlog }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#blog">Blog</a>
+          </li>
+      {{ end }}
+            
+      {{ if .Site.Params.showProjects }}
+          <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
           </li>
       {{ end }}
     </ul>
