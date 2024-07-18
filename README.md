@@ -23,17 +23,15 @@ Step 2: Create a GitHub Repository
 Open GitHub Desktop.
 Click on File in the top menu and select New repository....
 In the "Create a New Repository" dialog:
-Name your repository tilman2.
-Choose the local path where you want the repository to be stored on your computer.
+Name your repository BobSponge. (or use your name and change all reference throughout this doc)
+Choose the local **path** (not the folder, Github will make a folder with the same name as the repository) where you want the repository to be stored on your computer.
 Optionally, add a description.
 Ensure the "Initialize this repository with a README" checkbox is checked.
 Click Create repository.
 
 Step 3: Set Up Your Markdown Website
-Navigate to the local repository folder you just created.
-Add your markdown files and any other necessary files for your website.
-For example, create an index.md file as the homepage.
-You can use a static site generator like Jekyll, Hugo, or another tool to convert your markdown files into a website if you prefer.
+Navigate to the local repository folder Github just created.
+Copy the files from the BobSponge example.
 
 Step 4: Commit and Push to GitHub
 Open GitHub Desktop.
@@ -42,21 +40,25 @@ Write a commit message (e.g., "Initial commit with markdown files").
 Click Commit to main.
 Click Push origin to upload your local repository to GitHub.
 
-Step 5: Deploy to Netlify
-Go to Netlify and sign up or log in.
-Click on New site from Git.
-Select GitHub as the provider and authenticate if necessary.
-Find and select your tilman2 repository.
+## Edit the files
+
+Primary page info is in the "/content/_index.md" file.
+Edit the file in your favorite editor (I use R-Studio so I can add R-markdown files to my site)
+
 
 ## Set up Netlify.com account using Github login
 
+Go to ![Netlify.com](https://netlify.com) and sign up or log in.
+Click on New site from Git.
+Select GitHub as the provider and authenticate if necessary.
+Find and select your repository (i.e., BobSponge).
 Netlify will automatically detect your build settings. You may need to specify the build command and publish directory if you're using a static site generator (e.g., for Jekyll, it might be jekyll build and _site).
 Click Deploy site.
 
 ## Change the navigation menu
 
 Go to the folder on your computer from the main project directory (i.e., BobSponge): "\themes\hugo-resume\layouts\partials\nav.html"
-Move the "if" statements up or down. Moving Skills below the Education if block will change the order in the navigation menu.
+Move the "if" statements up or down. Moving Skills block of code below the Education block will change the order in the navigation menu.
 
 
 

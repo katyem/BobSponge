@@ -23,7 +23,7 @@ I also want to be your friend.
 - **B.S. in Psychology**  
   Louisiana State University
 
-## Professional Experience
+## Experience
 
 ### Patty University: Department of Engineering
 - **Professor** (2018 – Present)
