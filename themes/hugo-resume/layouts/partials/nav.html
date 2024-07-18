@@ -30,7 +30,11 @@
             <a class="nav-link js-scroll-trigger" href="/#{{ /#publications }}">Publications"</a>
           </li>
       {{ end }}      
-
+      {{ if .Site.Params.showPortfolio }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#{{ /#portfolio }}">Portfolio"</a>
+          </li>
+      {{ end }}     
       {{ if .Site.Params.showExperience }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
