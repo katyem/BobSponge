@@ -45,7 +45,6 @@ Click Push origin to upload your local repository to GitHub.
 Primary page info is in the "/content/_index.md" file.
 Edit the file in your favorite editor (I use R-Studio so I can add R-markdown files to my site)
 
-
 ## Set up Netlify.com account using Github login
 
 Go to ![Netlify.com](https://netlify.com) and sign up or log in.
@@ -70,9 +69,9 @@ Move the "if" statements up or down. Moving Skills block of code below the Educa
 
 ```
 
-![nav.html](nav.html_image.png)
+![nav html menu](nav.html_image.png)
 
-![https://bobsponge.netlify.app](https://bobsponge.netlify.app)
+![sponge bob site](https://bobsponge.netlify.app)
  
 Please do not distribute any of the images associated with this project. If you use this as your template for your CV, go to the "static/img" folder and delete all of the images and replace with your own (hint, use the same image names, like qr-code.png, and you don't have to recode).
 
