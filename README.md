@@ -40,10 +40,52 @@ Write a commit message (e.g., "Initial commit with markdown files").
 Click Commit to main.
 Click Push origin to upload your local repository to GitHub.
 
-## Edit the files
+## Edit the index file - the primary content
 
 Primary page info is in the "/content/_index.md" file.
 Edit the file in your favorite editor (I use R-Studio so I can add R-markdown files to my site)
+
+
+## Edit the Projects and/or Publications Folders
+
+Under the \content foder you should see the other optional resume menu items. If you don't want them, delete the folder.  Otherwise, open the folder and make changes/copies where appropriate.
+
+In /content/project/creations you'll find the folders of particular projects.  Copy one to a new folder with a name for your project. Change the image and the -index.md file. Once all of your projects are in the creations folder, delete the bobsponge folders.
+
+In the publications folder, create a new md file for each of your publications and delete Bob's.
+
+## Config x 2
+
+Change the info in the config.toml file in your main project folder to reflect your information and settings:
+
+```markdown
+
+title = "BS CV"
+baseURL = "https://bobsponge.netlify.app/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = ""
+email = "bs@morebs.io"
+favicon = "/favicon.ico"
+firstName = "Bob"
+lastName = "Sponge"
+phone = ""
+profileImage = "img/bob.png"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
+
+```
 
 ## Set up Netlify.com account using Github login
 
