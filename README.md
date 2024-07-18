@@ -60,4 +60,4 @@ Please do not distribute any of the images associated with this project. If you 
 
 100% of my students who used this template landed a job!  She was really happy.
 
-![]("nav.html_image.png")
+![nav.html](nav.html_image.png)
