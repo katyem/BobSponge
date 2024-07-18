@@ -17,6 +17,10 @@ I'm interested in all things related to Krabby Patty Making. I have over 25 year
 
 I also want to be your friend.
 
+## Skills
+
+Double black belt in Krabby Patty Management (KPE)
+
 ## Education
 - **M.S. in Patty Engineering**  
   Louisiana Tech University
