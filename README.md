@@ -60,8 +60,15 @@ Click Deploy site.
 Go to the folder on your computer from the main project directory (i.e., BobSponge): "\themes\hugo-resume\layouts\partials\nav.html"
 Move the "if" statements up or down. Moving Skills block of code below the Education block will change the order in the navigation menu.
 
+```markdown
 
+      {{ if .Site.Params.showProjects }}
+          <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
+          </li>
+      {{ end }}
 
+```
 
 ![nav.html](nav.html_image.png)
 
