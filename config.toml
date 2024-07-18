@@ -6,7 +6,7 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
- 
+
 [params]
 address = ""
 email = "bs@morebs.io"
@@ -17,8 +17,8 @@ phone = ""
 profileImage = "img/bob.png"
 showEducation = true
 showExperience = true
-showOpenSource = false
-showProjects =true
+showOpenSource = true
+showProjects = true
 showPublications = true
 showQr = true
 showSkills = true
@@ -33,7 +33,7 @@ link = "https://www.linkedin.com/in/sponge-b-2738611ba"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/katyem/BobSponge"
+link = "https://github.com/spongebob-squarepants-815b041a/"
 name = "GitHub"
 
 [[params.handles]]
