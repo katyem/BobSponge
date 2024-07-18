@@ -17,6 +17,26 @@ I'm interested in all things related to Krabby Patty Making. I have over 25 year
 
 I also want to be your friend.
 
-## Other Stuff
+## Education
+- **M.S. in Patty Engineering**  
+  Louisiana Tech University
+- **B.S. in Psychology**  
+  Louisiana State University
 
-Blah!
+## Professional Experience
+
+### Patty University: Department of Engineering
+- **Professor** (2018 – Present)
+
+## Awards
+- **2006 – Present**: College of Education Endowed Professorship awarded by the College of Education at Louisiana Tech University
+- **2015**: Presidential Medallion for service
+
+## Accomplishments
+
+
+## Presentations
+
+
+## Publications
+.
