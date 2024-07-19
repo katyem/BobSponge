@@ -6,7 +6,7 @@ link: NA
 sitemap:
   priority: 0.6
   weight: 0.5
-title: Portfolio
+title: Publications
 weight: 10
 ---
 <!--
