@@ -14,35 +14,72 @@ Use a free netlify.com site through your github account.
 
 ## Instructions for Github
 
-Use github desktop to upload your file updates (in R) to your github folder.  Netlify will monitor and update your page when it detects an update.Step 1: Install GitHub Desktop
+# Fork the Repository
 
-Step 1: Download and install GitHub Desktop from here.
+## Step 1: Fork the Repository on GitHub
 
-Step 2: Create a GitHub Repository
+### Go to the Original Repository
+- Navigate to the repository on GitHub that you want to copy.
+- Click the `Fork` button at the top right corner of the repository page.
+- This creates a copy of the repository under your GitHub account.
 
-Open GitHub Desktop.
-Click on File in the top menu and select New repository....
-In the "Create a New Repository" dialog:
-Name your repository BobSponge. (or use your name and change all reference throughout this doc)
-Choose the local **path** (not the folder, Github will make a folder with the same name as the repository) where you want the repository to be stored on your computer.
-Optionally, add a description.
-Ensure the "Initialize this repository with a README" checkbox is checked.
-Click Create repository.
+## Step 2: Clone the Forked Repository Using GitHub Desktop
 
-Step 3: Set Up Your Markdown Website
-Navigate to the local repository folder Github just created.
-Copy the files from the BobSponge example.
+### Open GitHub Desktop
+- Launch GitHub Desktop.
 
-Step 4: Commit and Push to GitHub
-Open GitHub Desktop.
-You should see your changes in the Changes tab.
-Write a commit message (e.g., "Initial commit with markdown files").
-Click Commit to main.
-Click Push origin to upload your local repository to GitHub.
+### Clone the Forked Repository
+- Go to `File > Clone repository...`.
+- Select the `GitHub.com` tab if you’re logged in. If not, log in to your GitHub account in GitHub Desktop.
+- Select the forked repository from the list.
+- Choose the local path where you want to clone the repository.
+- Click `Clone`.
+
+## Step 3: Make Changes to the Forked Repository
+
+### Navigate to the Local Repository Folder
+- Open the local folder where the repository is cloned.
+
+### Add, Modify, or Delete Files
+- Make the necessary changes to the files.
+
+### Commit the Changes in GitHub Desktop
+- Go back to GitHub Desktop.
+- You should see the changes listed under the `Changes` tab.
+- Write a commit message (e.g., "Initial commit with project files").
+- Click `Commit to main`.
+
+## Step 4: Push Changes to GitHub
+
+### Push the Changes
+- Click `Push origin` to upload your changes to the forked repository on GitHub.
+
+## (Optional) Step 4.5: Create a New Repository on GitHub
+
+### Create a New Repository
+- Go to GitHub and click the `+` icon at the top right corner.
+- Select `New repository`.
+- Fill in the repository name (e.g., `my-new-repo`), description, and other details.
+- Click `Create repository`.
+
+### Add the New Repository Remote
+- In GitHub Desktop, go to `Repository > Repository Settings`.
+- Click `Remote` and add the URL of the new repository you created on GitHub.
+
+### Push Local Changes to the New Repository
+- Click `Push origin` to push your local changes to the new repository on GitHub.
+
+## Summary
+
+### Fork Method:
+1. Fork the repository on GitHub.
+2. Clone the forked repository using GitHub Desktop.
+3. Make changes and push them to GitHub.
+
 
 ## Edit the index file - the primary content
 
-Primary page info is in the "/content/_index.md" file.
+Primary page info is in the "/content/_index.md" file under your primary folder.
 Edit the file in your favorite editor (I use R-Studio so I can add R-markdown files to my site)
 
 
