@@ -20,6 +20,7 @@ showExperience = true
 showOpenSource = true
 showProjects = false
 showPublications = true
+publicationsAlternateName = "Publications"
 showQr = true
 showSkills = true
 
